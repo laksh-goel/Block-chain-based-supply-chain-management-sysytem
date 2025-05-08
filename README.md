@@ -85,7 +85,7 @@ Overall, this smart contract provides a way to track the various stages of a pha
 ## Create,Compile & Deploy Smart Contract. 
 
 * Open VScode and open VScode Terimal by Ctrl + ' .
-* **Clone Project** Type the following command and press Enter : git clone : ` https://github.com/laksh-goel/Block-chain-based-supply-chain-management-sysytem.git'
+* **Clone Project** Type the following command and press Enter : git clone :  https://github.com/laksh-goel/Block-chain-based-supply-chain-management-sysytem.git
 * **Install truffle** : Type the following command and press Enter: `npm install -g truffle`
 * **Install dependencies** : Type the following command and press Enter: `npm i`
 * **File structure for  DApp** : 
